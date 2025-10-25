@@ -11,9 +11,9 @@ You can download the original dataset here: https://www.kaggle.com/datasets/vive
 ## 💻Data Transformation and Processing
 
 The building of the data model consist in:
-Creating Dimensional Tables for readability such as DimProduct, DimLocation and Dim Customer.
-Creating a DimDate or Calendar table to apply time intelligence approach.
-Writing DAX measures as business metrics.
+1) Creating Dimensional Tables for readability such as DimProduct, DimLocation and Dim Customer.
+2) Creating a DimDate or Calendar table to apply time intelligence approach.
+3) Writing DAX measures as business metrics.
 
 ## 🔎Insights
 
